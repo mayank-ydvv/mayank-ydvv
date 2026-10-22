@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" width="100%" alt="" />
+<img src="assets/banner.svg?v=3" width="100%" alt="" />
 
 <table>
 <tr>
@@ -28,9 +28,9 @@ Currently, I'm focusing my energy on building **Deforestation Monitor** (monthly
 
 </td>
 <td width="30%" align="center">
-<img src="assets/planet.svg" width="190" alt="" />
+<img src="assets/planet.svg?v=3" width="190" alt="" />
 </td>
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" height="10" alt="" />
+<img src="assets/divider.svg?v=3" width="100%" height="10" alt="" />
