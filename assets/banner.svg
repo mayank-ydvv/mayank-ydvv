@@ -2,7 +2,7 @@
 <defs>
 <radialGradient id="bg" cx="55%" cy="45%" r="80%"><stop offset="0" stop-color="#0d0b24"/><stop offset=".55" stop-color="#05050f"/><stop offset="1" stop-color="#000"/></radialGradient>
 <radialGradient id="flare" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#fff"/><stop offset=".12" stop-color="#fff" stop-opacity=".95"/><stop offset=".35" stop-color="#bcd7ff" stop-opacity=".35"/><stop offset="1" stop-color="#bcd7ff" stop-opacity="0"/></radialGradient>
-<filter id="liquid" x="-10%" y="-60%" width="120%" height="220%">
+<filter id="liquid" x="-10%" y="-60%" width="120%" height="220%" color-interpolation-filters="sRGB">
   <feTurbulence type="fractalNoise" baseFrequency="0.004 0.016" numOctaves="1" seed="4" result="n">
     <animate attributeName="baseFrequency" values="0.004 0.016;0.005 0.021;0.004 0.016" dur="16s" repeatCount="indefinite"/>
   </feTurbulence>
