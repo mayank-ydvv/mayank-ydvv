@@ -86,6 +86,14 @@ Lately I've been building **Deforestation Monitor** (monthly forest-loss maps fr
 </tr>
 </table>
 
+### 🐍 Eating my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayank-ydvv/mayank-ydvv/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mayank-ydvv/mayank-ydvv/output/snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/mayank-ydvv/mayank-ydvv/output/snake-dark.svg" width="100%" alt="Snake eating my contribution graph" />
+</picture>
+
 <img src="assets/divider.svg" width="100%" height="10" alt="" />
 
 <sub>✨ Ideas → commits → products ✨</sub>
