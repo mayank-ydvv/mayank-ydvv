@@ -1,4 +1,4 @@
-<img src="assets/banner.svg?v=3" width="100%" alt="" />
+<img src="assets/banner.gif" width="100%" alt="" />
 
 <table>
 <tr>
