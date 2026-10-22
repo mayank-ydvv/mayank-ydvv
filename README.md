@@ -1,36 +1,45 @@
-<img src="assets/banner.gif" width="100%" alt="" />
+<div align="center">
+  <a href="https://postimg.cc/pytCmbKy">
+    <img src="https://i.postimg.cc/T2K4HTwj/2ede7b2dc3b86f162d05817aed376b73.jpg" width="100%" alt="Banner"/>
+  </a>
+</div>
+
+<br>
 
 <table>
-<tr>
-<td colspan="2" align="center">
-<a href="https://deforestation-monitor-five.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMOS-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demos" /></a>
-<a href="https://huggingface.co/mayank172007"><img src="https://img.shields.io/badge/HUGGING_FACE-000000?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" /></a>
-<a href="mailto:mayankyadav17july@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://github.com/mayank-ydvv?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<details>
-<summary><h3>Hey there! I'm Mayank 👋</h3></summary>
-</details>
-</td>
-</tr>
-<tr>
-<td width="70%" valign="top">
-<br />
-
-**AI Builder & Full-Stack Developer**
-
-I'm deeply passionate about turning ideas into shipped products: AI agents, computer vision, and polished web apps that real people can actually use.
-
-Currently, I'm focusing my energy on building **Deforestation Monitor** (monthly forest-loss maps from Sentinel-2 imagery) and **Sanket** (AI emergency triage for multilingual calls). My technical playground revolves around TypeScript, React / Next.js, Python, Swift, and wiring LLMs into real workflows.
-
-</td>
-<td width="30%" align="center">
-<img src="assets/planet.svg?v=3" width="190" alt="" />
-</td>
-</tr>
+  <tr>
+    <td colspan="2" align="center" valign="middle">
+      <a href="https://deforestation-monitor-five.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+      &nbsp;
+      <a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHRpdGxlPkxpbmtlZEluPC90aXRsZT48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&logoColor=white"></a>
+      &nbsp;
+      <a href="mailto:mayankyadav17july@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+      &nbsp;
+      <a href="#"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSA5aC00VjNIOXY2SDVsNyA3IDctN3pNNSAxOHYyaDE0di0ySDV6Ii8+PC9zdmc+&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="middle">
+      <h3>Hey there! I’m Mayank 👋</h3>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle" width="70%">
+      <br>
+      <b>AI & Full-Stack Developer</b> (India)<br><br>
+      I am based in India and deeply passionate about building AI-powered products, computer vision pipelines, and polished full-stack web applications.<br><br>
+      Currently, I'm focusing my energy on building <b>Deforestation Monitor</b> (monthly forest-loss maps from satellite imagery) and <b>Sanket</b> (AI emergency triage for multilingual calls). My technical playground revolves around TypeScript, React, Python, Swift, and wiring LLMs into real workflows.<br><br>
+    </td>
+    <td align="center" valign="middle" width="30%">
+      <a href="https://postimg.cc/NyFKLkth">
+        <img src="https://i.postimg.cc/YSfYndyS/20260612-021944.png" width="220" alt="About Me Portrait"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
-<img src="assets/divider.svg?v=3" width="100%" height="10" alt="" />
+<div align="center">
+  <a href="https://postimg.cc/XBBCDcJP">
+    <img src="https://i.postimg.cc/prqJrstP/20260612-025300.jpg" width="100%" alt="Coding Quotes"/>
+  </a>
+</div>
