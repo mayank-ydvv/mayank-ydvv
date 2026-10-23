@@ -28,7 +28,7 @@
       <br>
       <b>AI & Full-Stack Developer</b> (India)<br><br>
       I am based in India and deeply passionate about building AI-powered products, computer vision pipelines, and polished full-stack web applications.<br><br>
-      Currently, I'm focusing my energy on building <b>Deforestation Monitor</b> (monthly forest-loss maps from satellite imagery) and <b>Sanket</b> (AI emergency triage for multilingual calls). My technical playground revolves around TypeScript, React, Python, Swift, and wiring LLMs into real workflows.<br><br>
+      I love taking an idea from a rough sketch to something real people can use, and I'm always learning, experimenting, and shipping. When I'm not coding, you'll probably find me exploring new tech or figuring out what to build next.<br><br>
     </td>
     <td align="center" valign="middle" width="30%">
       <a href="https://postimg.cc/NyFKLkth">
